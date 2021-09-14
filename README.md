@@ -1,2 +1,2 @@
-# project-1
-JSON Based Inventory management Assignment/Adding_new_Products.ipynb
+
+JSON ఇన్వెంటరీ రక్షితం మేనేజ్ ‌ మెంట్ అసైన్ ‌ మెంట్ / Adding_new_Products.ipynb
